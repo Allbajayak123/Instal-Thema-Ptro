@@ -7,7 +7,7 @@
 Gunakan script di bawah untuk menginstall thema dengan sekali copy paste saja.
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/Allbajayak123/p/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/Allbajayak123/Instal-Thema-Ptro/main/install.sh)
 ```
 
 ## Features
